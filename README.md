@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://www.nicepng.com/png/full/152-1525748_ethereum-logo-png.png" alt="logo" width="200" height="300" />
+  <img src="https://www.nicepng.com/png/full/152-1525748_ethereum-logo-png.png" alt="logo" width="200" height="280" />
   
 # CRYPTO LOTTERY with React js
   
