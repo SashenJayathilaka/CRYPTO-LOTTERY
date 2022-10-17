@@ -1,11 +1,52 @@
+<div align="center">
+
+  <img src="https://www.nicepng.com/png/full/152-1525748_ethereum-logo-png.png" alt="logo" width="200" height="300" />
+  
 # CRYPTO LOTTERY with React js
-<a href="https://crypto-lottery-eta.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+  
+  <p>
+CRYPTO LOTTERY with NEXT.JS! (React.js, Solidity, TypeScript, TailwindCSS, thirdweb)
+  </p>
+  
+  
+<!-- Badges -->
+
+<a href="https://crypto-lottery-eta.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/SashenJayathilaka/CRYPTO-LOTTERY.svg)
 ![](https://img.shields.io/github/stars/SashenJayathilaka/CRYPTO-LOTTERY.svg)
 ![](https://img.shields.io/github/issues/SashenJayathilaka/CRYPTO-LOTTERY)
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/CRYPTO-LOTTERY)
 
+   
+<h4>
+    <a href="https://crypto-lottery-eta.vercel.app">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/CRYPTO-LOTTERY/blob/master/README.md">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/CRYPTO-LOTTERY/issues">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/CRYPTO-LOTTERY/issues">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+<!-- Table of Contents -->
+## :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Contact](#handshake-contact)
+
+<!-- About the Project -->
+## :star2: About the Project
 
 <!-- Screenshots -->
 ### :camera: Screenshots
@@ -65,28 +106,6 @@
     </tr>
 </table>
 
-<table>
-    <tr>
-        <td>
-<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="20" height="20" /></a>
-        </td>
-                <td>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="20" height="20" /></a>
-        </td>
-                        <td>
-<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="20" height="20" /></a>
-        </td>
-                        <td>
-<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="20" height="20" /></a>
-        </td>
-                        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/188356618-2ea7e04e-60f3-4219-bbca-a69dcd84e667.gif" alt="" width="20" height="20" /></a>
-        </td>
-    </tr>
-</table>
-
-
-<br />
 
 ## 	:toolbox: Getting Started
 ### :bangbang: Prerequisites
